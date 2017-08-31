@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<model>    <components>        <component id="ctx" name="not selected"/>
+    </components>
+    <connectors></connectors>
+    <maping></maping>
+</model>
