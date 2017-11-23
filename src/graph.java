@@ -50,7 +50,7 @@ import org.lwjgl.opengl.DisplayMode;
 
 
 
-public class graph {
+public class graph implements in1{
 	
 	private static int v;
 	
@@ -614,4 +614,11 @@ public class graph {
 		          font.drawString(x, y, text, col);
 		          glDisable(GL11.GL_BLEND);
 		    }
+
+
+		@Override
+		public void method1(int a) {
+			// TODO Auto-generated method stub
+			
+		}
 }
